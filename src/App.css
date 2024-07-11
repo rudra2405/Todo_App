@@ -1,0 +1,24 @@
+input {
+  width: 100% !important;
+  border: none;
+  outline: none;
+  padding: 5px;
+  border-radius: 5px;
+  box-shadow: 2px 2px 2px 2px black;
+}
+
+.Todo-container {
+  margin: 50px auto;
+  max-width: 700px;
+  font-weight: bold;
+  background-color: rgb(173, 211, 198);
+  width: 100%;
+  border: 1px solid red !important;
+  box-shadow: 2px 2px 5px 3px black;
+  padding: 30px 0;
+}
+
+p {
+  margin: 30px 0 !important;
+  font-size: 20px;
+}
